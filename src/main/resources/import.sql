@@ -1,0 +1,1 @@
+insert into cliente(id,nome, email,telefone) values (1,'Eduardo', 'Email', 'Fone');
